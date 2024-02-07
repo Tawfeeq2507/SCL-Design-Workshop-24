@@ -26,8 +26,8 @@ Hello and welcome to my Github repository of Standard cell designing Workshop.
 + Synthesis
 + Gate Level Simulation
  
-
-## Introduction to VLSI Design Flow:
+<details>
+<summary> IINTRODUCTION TO VLSI DESIGN FLOW</summary>
 
 In VLSI Design flow we have two types of Design flows:
 
@@ -49,11 +49,14 @@ In Design flow we have Different Styles of Designing:
 - Gate Array Based Design.
 - FPGA Based Design. 
 
-In this workshop we focus only on the Standard Cell Based Designing:
+In this workshop we focus only on the Standard Cell Based Designing.
 
-### SCHEMATIC DESIGN
+</details>
 
-In SSchematic Design we Design the schematic of the Gates using Transistors and we Design these using the CMOS logic where we have pull up network and a pulldown Network and Name them according to the Industrial Standard Naming of Cells:
+<details>
+<summary>SCHEMATIC DESIGN</summary>
+
+In Schematic Design we Design the schematic of the Gates using Transistors and we Design these using the CMOS logic where we have pull up network and a pulldown Network and Name them according to the Industrial Standard Naming of Cells:
 
 ![image](https://github.com/Tawfeeq2507/SCL-Design-Workshop-24/assets/142083027/c15de560-6f99-449f-88b0-17e1143bbc58)
 
@@ -113,7 +116,11 @@ we increase the aspect ratio twice to get double the driving rate
 
 ![image](https://github.com/Tawfeeq2507/SCL-Design-Workshop-24/assets/142083027/fe501b98-8431-4f1b-ba54-e69fd2d0eda4)
 
+</details>
 
+<details>
+<summary> SIMULATION </summary>
+</details>
 
 
  
