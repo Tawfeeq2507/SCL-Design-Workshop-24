@@ -213,6 +213,75 @@ Other than these we also take Care of the **LAMBDA RULES** which play an importa
 <details>
 <summary>STANDARD CELL LAYOUT DESIGNS </summary>
 
+**1)INV1X1:**
+
+  ![image](https://github.com/Tawfeeq2507/SCL-Design-Workshop-24/assets/142083027/83d54808-49ab-4560-b308-f2bf5ce1716f)
+
+  Similarly I have Designed For Higher Driving Strengths shown Below
+  
+**2)INV1X2:**
+
+  ![image](https://github.com/Tawfeeq2507/SCL-Design-Workshop-24/assets/142083027/b724d65d-ebea-46a1-9fec-c28683e11b4f)
+  
+**3)INV1X3:**
+
+  ![image](https://github.com/Tawfeeq2507/SCL-Design-Workshop-24/assets/142083027/2da28d78-999d-4daa-8f4a-dd7dd5ac8aae)
+
+**4)INV1X4:**
+
+  ![image](https://github.com/Tawfeeq2507/SCL-Design-Workshop-24/assets/142083027/e2583d8d-b9c1-4e7f-bcd0-6dc042c0ba35)
+
+After Abuting all together:
+
+  ![image](https://github.com/Tawfeeq2507/SCL-Design-Workshop-24/assets/142083027/95d7b777-84f7-43c7-abec-31a789b11eaf)
+
+**5)NAND2X1:**
+
+  ![image](https://github.com/Tawfeeq2507/SCL-Design-Workshop-24/assets/142083027/2b7e7147-5858-4fba-aa56-ee832ca4b6d7)
+
+**6)NAND2X2:**
+
+  ![image](https://github.com/Tawfeeq2507/SCL-Design-Workshop-24/assets/142083027/23af77b5-701c-4de3-83ec-e6a5ee7d01ad)
+
+After Abuting all together:
+
+  ![image](https://github.com/Tawfeeq2507/SCL-Design-Workshop-24/assets/142083027/a2ad154f-adc0-4413-981a-18ea505280fa)
+
+**7)NOR2X1:**
+
+  ![image](https://github.com/Tawfeeq2507/SCL-Design-Workshop-24/assets/142083027/a14443b7-a15a-4ec7-be59-d62be9aee91b)
+
+**8)NOR2X2:**
+
+  ![image](https://github.com/Tawfeeq2507/SCL-Design-Workshop-24/assets/142083027/98b6cae2-e43f-4cde-9d4a-08eabd9c5df0)
+
+After abuting all together:
+
+  ![image](https://github.com/Tawfeeq2507/SCL-Design-Workshop-24/assets/142083027/a5eac77b-0924-4d20-b25b-ba128d8f13ca)
+
+**9)AND2X1:**
+
+  ![image](https://github.com/Tawfeeq2507/SCL-Design-Workshop-24/assets/142083027/a6fe4724-1de3-40c7-a76f-23d04a10f407)
+
+**10)AND2X2:**
+
+  ![image](https://github.com/Tawfeeq2507/SCL-Design-Workshop-24/assets/142083027/a166cf39-97d3-45f6-9583-5cebca72b2fe)
+
+After abuting all Together:
+
+  ![image](https://github.com/Tawfeeq2507/SCL-Design-Workshop-24/assets/142083027/d297a0ac-c7af-4097-9474-22873cadcf4e)
+
+**11)OR2X1:**
+
+  ![image](https://github.com/Tawfeeq2507/SCL-Design-Workshop-24/assets/142083027/fdbf4c57-af43-45aa-8959-3f83f3761974)
+
+**12)OR2X2:**
+
+  ![image](https://github.com/Tawfeeq2507/SCL-Design-Workshop-24/assets/142083027/241115f9-96f1-4fd9-a28f-58ab6875ec2a)
+
+After abuting all together:
+
+  ![image](https://github.com/Tawfeeq2507/SCL-Design-Workshop-24/assets/142083027/3bd946de-64bd-4a8e-a4cb-b2a2eaf6c208)
 
 </details>
 
