@@ -210,7 +210,11 @@ Other than these we also take Care of the **LAMBDA RULES** which play an importa
 
 </details>
 
+<details>
+<summary>STANDARD CELL LAYOUT DESIGNS </summary>
 
+
+</details>
 
 
 
